@@ -1,0 +1,1 @@
+This project analyzes the probability of surviving the Titanic disaster based on multiple passenger characteristics, including sex, age, ticket class, crew status, family aboard (siblings/spouse or parents/children), and country of origin. The analysis demonstrates SQL data cleaning, aggregation, and reporting techniques to uncover key survival patterns.
